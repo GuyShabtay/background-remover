@@ -1,0 +1,13 @@
+flask
+flask_cors
+rembg
+Pillow
+gunicorn
+waitress
+fastapi
+uvicorn
+python-multipart
+tornado
+
+
+
